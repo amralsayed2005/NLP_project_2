@@ -1,0 +1,12 @@
+{
+  "micro_precision": 0.5951859956236324,
+  "micro_recall": 0.7351351351351352,
+  "micro_f1": 0.6577992744860943,
+  "macro_precision": 0.6087,
+  "macro_recall": 0.6406,
+  "macro_f1": 0.6137,
+  "true_positives": 1360,
+  "false_positives": 925,
+  "false_negatives": 490,
+  "invalid_bio_transitions": 0
+}
